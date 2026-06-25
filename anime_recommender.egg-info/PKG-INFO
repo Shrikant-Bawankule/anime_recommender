@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: anime-recommender
+Version: 0.1.0
+Summary: An anime recommendation system
+Author: Shrikant
+Requires-Dist: langchain
+Requires-Dist: langchain-community
+Requires-Dist: chromadb
+Requires-Dist: pandas
+Requires-Dist: streamlit
+Requires-Dist: langchain_groq
+Requires-Dist: python-dotenv
+Requires-Dist: sentence-transformers==3.0.1
+Requires-Dist: langchain_huggingface

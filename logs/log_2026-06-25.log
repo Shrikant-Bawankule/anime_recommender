@@ -1,0 +1,20 @@
+2026-06-25 11:47:14,713 - INFO - Intializing Recommdation Pipeline
+2026-06-25 11:47:14,715 - INFO - Use pytorch device_name: cpu
+2026-06-25 11:47:14,715 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-06-25 11:47:27,855 - INFO - Pipleine intialized sucesfully...
+2026-06-25 11:47:37,951 - INFO - Recived a query Hique
+2026-06-25 11:47:37,951 - INFO - Fetching recommendations for query: Hique
+2026-06-25 11:47:39,438 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-25 11:47:39,469 - INFO - Recommendation generated sucesfulyy...
+2026-06-25 11:48:06,940 - INFO - Recived a query solo levelling
+2026-06-25 11:48:06,941 - INFO - Fetching recommendations for query: solo levelling
+2026-06-25 11:48:07,991 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-25 11:48:07,995 - INFO - Recommendation generated sucesfulyy...
+2026-06-25 11:49:06,510 - INFO - Recived a query similar anime to Jujutsu kaisen
+2026-06-25 11:49:06,510 - INFO - Fetching recommendations for query: similar anime to Jujutsu kaisen
+2026-06-25 11:49:07,676 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-25 11:49:07,678 - INFO - Recommendation generated sucesfulyy...
+2026-06-25 11:49:39,590 - INFO - Recived a query similar anime to Blue lock
+2026-06-25 11:49:39,590 - INFO - Fetching recommendations for query: similar anime to Blue lock
+2026-06-25 11:49:40,713 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-25 11:49:40,715 - INFO - Recommendation generated sucesfulyy...
