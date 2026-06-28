@@ -8,3 +8,8 @@ python-dotenv
 sentence-transformers==3.0.1
 langchain_huggingface
 truststore
+numpy
+scikit-learn
+scipy
+matplotlib
+seaborn
